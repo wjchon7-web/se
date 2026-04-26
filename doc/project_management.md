@@ -1,4 +1,4 @@
-# [프로젝트 계획서] One-Cart (원카트): 통합 장바구니 시스템
+# [프로젝트 계획서 v1.1] One-Cart (원카트): 통합 장바구니 시스템
 **Unified Shopping Cart System (USCS)**
 
 ---
