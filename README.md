@@ -9,5 +9,5 @@
 [프로젝트_관리_계획서](./doc/project_management.md)
 /doc/project_management.md
 
-[프로젝트_요구사항_정의서](./doc/project_PRD.md)
+[프로젝트_요구사항_정의서](./doc/PRD.md)
 /doc/PRD.md
