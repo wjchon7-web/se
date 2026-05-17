@@ -11,3 +11,6 @@
 
 [프로젝트_요구사항_정의서](./doc/PRD.md)
 /doc/PRD.md
+
+[프로젝트_요구사항_분석서](./doc/requirements_analysis.md)
+/doc/requirements_analysis.md
