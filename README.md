@@ -14,3 +14,6 @@
 
 [프로젝트_요구사항_분석서](./doc/requirements_analysis.md)
 /doc/requirements_analysis.md
+
+[프로젝트_테스트 보고서](./doc/test_report.md)
+/doc/test_report.md
